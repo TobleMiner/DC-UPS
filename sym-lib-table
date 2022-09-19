@@ -4,6 +4,6 @@
   (lib (name "ti-chargers")(type "KiCad")(uri "${KIPRJMOD}/lib/ti-chargers.kicad_sym")(options "")(descr ""))
   (lib (name "Power_Management_TI")(type "KiCad")(uri "${KIPRJMOD}/lib/Power_Management_TI.kicad_sym")(options "")(descr ""))
   (lib (name "Transistor_FET_DFN")(type "KiCad")(uri "${KIPRJMOD}/lib/Transistor_FET_DFN.kicad_sym")(options "")(descr ""))
-  (lib (name "Regulator_Switching_Silergy")(type "Legacy")(uri "${KIPRJMOD}/lib/Regulator_Switching_Silergy.lib")(options "")(descr ""))
   (lib (name "Connector_HanRun")(type "Legacy")(uri "${KIPRJMOD}/lib/Connector_HanRun.lib")(options "")(descr ""))
+  (lib (name "Regulator_Switching_Silergy")(type "KiCad")(uri "${KIPRJMOD}/lib/Regulator_Switching_Silergy.kicad_sym")(options "")(descr ""))
 )
