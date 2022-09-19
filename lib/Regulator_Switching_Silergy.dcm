@@ -1,0 +1,29 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SY7088
+F https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY7088DGC_C178240.pdf
+$ENDCMP
+#
+$CMP SY7304
+F https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY7304DBC_C178252.pdf
+$ENDCMP
+#
+$CMP SY8077
+D High Efficiency 1.5MHz, 1A Synchronous Step Down Regulator
+K Regulator switching synchronous
+F https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY8077AAC_C133749.pdf
+$ENDCMP
+#
+$CMP SY8113B
+F https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY8113BADC_C78989.pdf
+$ENDCMP
+#
+$CMP SY8303
+F https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY8303AIC_C97054.pdf
+$ENDCMP
+#
+$CMP SY8368
+F https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY8368QNC_C125897.pdf
+$ENDCMP
+#
+#End Doc Library
