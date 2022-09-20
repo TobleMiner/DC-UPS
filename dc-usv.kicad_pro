@@ -425,7 +425,7 @@
     ],
     [
       "4ce9e4d8-553f-40e6-a397-66d04db306f8",
-      "DC controller"
+      "DC Output"
     ],
     [
       "a06395f1-7afb-45e9-b1be-eb1d60bae674",
@@ -433,15 +433,11 @@
     ],
     [
       "db902e67-672f-4e23-a96d-1719af2dd4ad",
-      "USB out"
+      "USB Output"
     ],
     [
       "9e7e0a40-7e6d-4da6-83b3-e5697c38a55c",
       "DC Input"
-    ],
-    [
-      "c702a25a-8908-4b98-9b56-543336af78f0",
-      "DC Output"
     ]
   ],
   "text_variables": {}
