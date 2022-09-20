@@ -3,4 +3,5 @@
   (lib (name "battery-holder-keystone")(type "KiCad")(uri "${KIPRJMOD}/lib/battery-holder-keystone.pretty")(options "")(descr ""))
   (lib (name "Package_DFN_FET")(type "KiCad")(uri "/home/tsys/work/pcb/ublox-breakout/lib/Package_DFN_FET.pretty")(options "")(descr ""))
   (lib (name "Connector_BarrelJack_LCSC")(type "KiCad")(uri "${KIPRJMOD}/lib/Connector_BarrelJack_LCSC.pretty")(options "")(descr ""))
+  (lib (name "LED_Indicator")(type "KiCad")(uri "${KIPRJMOD}/lib/LED_Indicator.pretty")(options "")(descr ""))
 )
