@@ -1,0 +1,20 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 69b04941-4f70-4cf2-925c-679eef28b10a)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (wire (pts (xy 38.1 60.96) (xy 41.91 60.96))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 41484700-aa8d-4a55-80b2-b510a3c92990)
+  )
+
+  (hierarchical_label "DCIN" (shape input) (at 38.1 60.96 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 3c465f35-1370-49bf-886f-e739d5f0d5a4)
+  )
+)
