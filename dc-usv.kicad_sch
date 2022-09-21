@@ -885,6 +885,15 @@
     (path "/a1347a17-5b4f-4900-9da0-ac89105de977/dc842b33-cbe2-4917-8384-4d9915edca07"
       (reference "#PWR0283") (unit 1) (value "GND") (footprint "")
     )
+    (path "/4ce9e4d8-553f-40e6-a397-66d04db306f8/ab0887a0-642a-4a28-ae57-5931e4e0e662"
+      (reference "#PWR0284") (unit 1) (value "GND2") (footprint "")
+    )
+    (path "/4ce9e4d8-553f-40e6-a397-66d04db306f8/43cd1513-621c-4920-8b1f-ef7c34eacbf8"
+      (reference "#PWR0285") (unit 1) (value "GND2") (footprint "")
+    )
+    (path "/aa145c2f-e167-4de3-92bf-3e0d0ae2fb67/b147da53-be28-4f8e-9a08-625387458ee3"
+      (reference "#PWR0286") (unit 1) (value "GND1") (footprint "")
+    )
     (path "/aa145c2f-e167-4de3-92bf-3e0d0ae2fb67/06ec14b7-6af4-46b3-aed4-1258a100ed19"
       (reference "B1") (unit 1) (value "18650") (footprint "battery-holder-keystone:SMD-1048-dual-18650")
     )
@@ -1169,6 +1178,12 @@
     )
     (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/b2d83311-3769-443b-9605-bbef8899a620/2450115a-d75d-4030-be57-8b41fadc2905"
       (reference "C93") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+    )
+    (path "/4ce9e4d8-553f-40e6-a397-66d04db306f8/4dd306b4-2ed3-4fa3-82a6-0d96b18caa8a"
+      (reference "C94") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+    )
+    (path "/4ce9e4d8-553f-40e6-a397-66d04db306f8/0fe5b1a2-4676-4f26-8862-3bdcf4ab8f83"
+      (reference "C95") (unit 1) (value "22nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/aa145c2f-e167-4de3-92bf-3e0d0ae2fb67/defc8839-bf1e-4b04-89fc-3cffafd43258"
       (reference "D1") (unit 1) (value "1N4148WS") (footprint "Diode_SMD:D_SOD-323")
@@ -1655,6 +1670,9 @@
     )
     (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/81f73104-b978-4a0f-90fb-f323e2637630"
       (reference "R94") (unit 1) (value "100kR") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/aa145c2f-e167-4de3-92bf-3e0d0ae2fb67/01ecce62-0198-41c8-8746-0d9660322580"
+      (reference "R95") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/b2d83311-3769-443b-9605-bbef8899a620/b967cb12-6ad1-4cba-bc29-324f5afac42d"
       (reference "R96") (unit 1) (value "100kR") (footprint "Resistor_SMD:R_1206_3216Metric")
