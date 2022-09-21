@@ -6,4 +6,5 @@
   (lib (name "Transistor_FET_DFN")(type "KiCad")(uri "${KIPRJMOD}/lib/Transistor_FET_DFN.kicad_sym")(options "")(descr ""))
   (lib (name "Connector_HanRun")(type "Legacy")(uri "${KIPRJMOD}/lib/Connector_HanRun.lib")(options "")(descr ""))
   (lib (name "Regulator_Switching_Silergy")(type "KiCad")(uri "${KIPRJMOD}/lib/Regulator_Switching_Silergy.kicad_sym")(options "")(descr ""))
+  (lib (name "Display_OLED")(type "KiCad")(uri "${KIPRJMOD}/lib/Display_OLED.kicad_sym")(options "")(descr ""))
 )
