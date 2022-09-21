@@ -1119,8 +1119,14 @@
     (path "/db902e67-672f-4e23-a96d-1719af2dd4ad/0c9c1b99-2825-41a8-a31e-e4cbb95b58c3"
       (reference "C76") (unit 1) (value "18pF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
+    (path "/db902e67-672f-4e23-a96d-1719af2dd4ad/ca489713-25c4-43c8-abf7-e56cd48ada9d"
+      (reference "C77") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+    )
     (path "/db902e67-672f-4e23-a96d-1719af2dd4ad/cc2e755e-319b-4c28-b92b-55a512f4195b"
       (reference "C78") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+    )
+    (path "/db902e67-672f-4e23-a96d-1719af2dd4ad/ce172478-974f-4ddb-86e4-edbde2655e86"
+      (reference "C79") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/db902e67-672f-4e23-a96d-1719af2dd4ad/c405e196-e406-4e4f-89cb-e023020d9e43"
       (reference "C80") (unit 1) (value "220uF") (footprint "Capacitor_SMD:CP_Elec_6.3x7.7")
@@ -1163,12 +1169,6 @@
     )
     (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/b2d83311-3769-443b-9605-bbef8899a620/2450115a-d75d-4030-be57-8b41fadc2905"
       (reference "C93") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
-    )
-    (path "/db902e67-672f-4e23-a96d-1719af2dd4ad/ca489713-25c4-43c8-abf7-e56cd48ada9d"
-      (reference "C?") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
-    )
-    (path "/db902e67-672f-4e23-a96d-1719af2dd4ad/ce172478-974f-4ddb-86e4-edbde2655e86"
-      (reference "C?") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/aa145c2f-e167-4de3-92bf-3e0d0ae2fb67/defc8839-bf1e-4b04-89fc-3cffafd43258"
       (reference "D1") (unit 1) (value "1N4148WS") (footprint "Diode_SMD:D_SOD-323")
