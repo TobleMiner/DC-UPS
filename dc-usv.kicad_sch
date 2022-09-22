@@ -924,6 +924,15 @@
     (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/5b7aaa49-43f6-4ce3-b718-b535fac26f74"
       (reference "#PWR0296") (unit 1) (value "+3V3") (footprint "")
     )
+    (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/0ede46ea-4de7-4fa6-810f-0ba49bf63961"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/53a3dabf-d840-40d3-b123-be99bc0cd47b"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/b7e85537-781d-41e1-bbe8-d28bedf5aecc"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/aa145c2f-e167-4de3-92bf-3e0d0ae2fb67/06ec14b7-6af4-46b3-aed4-1258a100ed19"
       (reference "B1") (unit 1) (value "18650") (footprint "battery-holder-keystone:SMD-1048-dual-18650")
     )
@@ -1794,8 +1803,14 @@
     (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/334c4c1c-aafa-445a-8268-9f20ace4b652"
       (reference "R117") (unit 1) (value "390kR") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
+    (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/59d225b3-da12-45b8-9dfd-44678b17239f"
+      (reference "R?") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
     (path "/4ce9e4d8-553f-40e6-a397-66d04db306f8/3152910b-dfc7-4fc7-87ab-336be9ca10d0"
       (reference "SW1") (unit 1) (value "SW_DIP_x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
+    )
+    (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/e6846060-390f-4c53-9367-e476d0b72950"
+      (reference "SW?") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD_LCSC:x-1825027-x")
     )
     (path "/aa145c2f-e167-4de3-92bf-3e0d0ae2fb67/d6dc2035-6098-4e26-82f4-b5badac60c84"
       (reference "TH1") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
