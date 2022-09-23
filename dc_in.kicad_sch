@@ -1164,6 +1164,11 @@
     (uuid ff81c0a5-df28-42a8-874d-7286e2b4838d)
   )
 
+  (label "DCSMOOTH" (at 154.94 93.98 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid eee5948d-d487-441f-98e5-20370978322d)
+  )
+
   (global_label "SMBD" (shape bidirectional) (at 207.01 68.58 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 0464b279-ad2b-4bfc-9550-53f3f01e0349)
