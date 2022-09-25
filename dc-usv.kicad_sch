@@ -1074,6 +1074,9 @@
     (path "/db902e67-672f-4e23-a96d-1719af2dd4ad/c33dcca6-4622-478c-83f2-1aea854be53c"
       (reference "#PWR0314") (unit 1) (value "GND") (footprint "")
     )
+    (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/8572e05a-74af-404b-bf60-563cf19889dc"
+      (reference "#PWR0315") (unit 1) (value "GND") (footprint "")
+    )
     (path "/aa145c2f-e167-4de3-92bf-3e0d0ae2fb67/06ec14b7-6af4-46b3-aed4-1258a100ed19"
       (reference "B1") (unit 1) (value "18650") (footprint "battery-holder-keystone:SMD-1048-dual-18650")
     )
@@ -2012,6 +2015,9 @@
     )
     (path "/db902e67-672f-4e23-a96d-1719af2dd4ad/968dbf9c-9eab-47cb-bbeb-b26c73af3685"
       (reference "R126") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/ff1db6dc-7d57-4a6c-9d21-2f01e752f6a3"
+      (reference "R127") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/4ce9e4d8-553f-40e6-a397-66d04db306f8/3152910b-dfc7-4fc7-87ab-336be9ca10d0"
       (reference "SW1") (unit 1) (value "SW_DIP_x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
