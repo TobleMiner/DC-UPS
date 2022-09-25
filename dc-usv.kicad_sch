@@ -990,6 +990,18 @@
     (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/bb5b7d7a-3bed-4cab-a226-01c6b8281708"
       (reference "#PWR0307") (unit 1) (value "GND") (footprint "")
     )
+    (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/2cc34f01-6b57-42e3-98a0-15a7f6746e54"
+      (reference "#PWR0308") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/a08a1879-9b73-41a1-9d3e-473827369a51"
+      (reference "#PWR0309") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/b3876e19-5c5e-4680-9043-94152df21524"
+      (reference "#PWR0310") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/70f49d3f-7b35-467b-94e3-bda2b4623db1"
+      (reference "#PWR0311") (unit 1) (value "+3V3") (footprint "")
+    )
     (path "/aa145c2f-e167-4de3-92bf-3e0d0ae2fb67/06ec14b7-6af4-46b3-aed4-1258a100ed19"
       (reference "B1") (unit 1) (value "18650") (footprint "battery-holder-keystone:SMD-1048-dual-18650")
     )
@@ -1392,6 +1404,9 @@
     (path "/a1347a17-5b4f-4900-9da0-ac89105de977/c29f14bf-2136-45fb-8c2b-3167cf235adb"
       (reference "J3") (unit 1) (value "Output 2.0mm") (footprint "Connector_BarrelJack_LCSC:BarrelJack_2.0mm_DC-044B")
     )
+    (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/0dd416f3-d5e6-473b-b3ce-60d55585d01b"
+      (reference "J4") (unit 1) (value "SMBUS") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+    )
     (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/62e1f937-5ead-4e6e-97fb-73fad41ea8f0"
       (reference "J5") (unit 1) (value "HanRun_HR911105A") (footprint "Connector_RJ:RJ45_Hanrun_HR911105A")
     )
@@ -1406,6 +1421,9 @@
     )
     (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/b2d83311-3769-443b-9605-bbef8899a620/0a415620-cf55-4c5c-bf5d-eb2fda1c60fe"
       (reference "J9") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_Palconn_UTC16-G")
+    )
+    (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/d4ceb12b-297b-433f-9c4a-38dd79f89676"
+      (reference "J10") (unit 1) (value "I2C") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/9f5e79bf-a1ad-420a-9a06-1a81ab265187/cbec83ff-a41d-4c4b-a84c-e066275f3cbf"
       (reference "L1") (unit 1) (value "2.2uH") (footprint "Inductor_SMD:L_Taiyo-Yuden_MD-4040")
@@ -1892,6 +1910,12 @@
     )
     (path "/9f5e79bf-a1ad-420a-9a06-1a81ab265187/0eca0453-18ac-4661-a9b1-51916678fe1b"
       (reference "R121") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/13a700f7-6613-49bc-b99d-ddf13e4110a4"
+      (reference "R122") (unit 1) (value "100R") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/6d8d7ac7-fe55-4a03-b981-e880d8dbd79e"
+      (reference "R123") (unit 1) (value "100R") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/4ce9e4d8-553f-40e6-a397-66d04db306f8/3152910b-dfc7-4fc7-87ab-336be9ca10d0"
       (reference "SW1") (unit 1) (value "SW_DIP_x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
