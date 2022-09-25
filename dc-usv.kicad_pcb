@@ -16176,7 +16176,7 @@
   (gr_text "3v3" (at 49.275 45.7 90) (layer "F.SilkS") (tstamp 2c7ae49c-5079-4c1e-85f0-9b6c034e02e7)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "DC UPS (9/12/13.5/15V) Rev A\nDesigned by Tobias Scharmm in 2022" (at 98.225 67.875 90) (layer "F.SilkS") (tstamp 31194f06-2c13-4b67-9ee9-7c922318e60d)
+  (gr_text "DC UPS (9/12/13.5/15V) Rev A\nDesigned by Tobias Schramm in 2022" (at 98.225 67.875 90) (layer "F.SilkS") (tstamp 31194f06-2c13-4b67-9ee9-7c922318e60d)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "3v3" (at 64.125 115.25) (layer "F.SilkS") (tstamp 3b5e0cda-ff5d-45e8-8dc9-eadda6de1e3a)
