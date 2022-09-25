@@ -987,6 +987,9 @@
     (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/b2d83311-3769-443b-9605-bbef8899a620/9f2c905a-ca7b-475b-8632-d31e68011e41"
       (reference "#PWR0306") (unit 1) (value "GND") (footprint "")
     )
+    (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/bb5b7d7a-3bed-4cab-a226-01c6b8281708"
+      (reference "#PWR0307") (unit 1) (value "GND") (footprint "")
+    )
     (path "/aa145c2f-e167-4de3-92bf-3e0d0ae2fb67/06ec14b7-6af4-46b3-aed4-1258a100ed19"
       (reference "B1") (unit 1) (value "18650") (footprint "battery-holder-keystone:SMD-1048-dual-18650")
     )
@@ -1304,6 +1307,9 @@
     )
     (path "/9f5e79bf-a1ad-420a-9a06-1a81ab265187/88747cb4-c96e-48fe-8bd4-16f22b505b73"
       (reference "C104") (unit 1) (value "22nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
+    )
+    (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/18534e76-5162-4fa7-96b2-3f14275df6e2"
+      (reference "C105") (unit 1) (value "22nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/25526d58-38a0-4dab-a440-f8cc76091337"
       (reference "CASE1") (unit 1) (value "1455L1601") (footprint "Case:1455L1601")
