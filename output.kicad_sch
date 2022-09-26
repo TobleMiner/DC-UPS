@@ -4520,7 +4520,7 @@
     (property "Datasheet" "~" (id 3) (at 102.87 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C25792" (id 4) (at 102.87 119.38 0)
+    (property "LCSC" "C25819" (id 4) (at 102.87 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 3025f583-91d5-40e4-980f-4d4d86adc29f))
