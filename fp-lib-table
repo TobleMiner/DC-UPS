@@ -8,4 +8,5 @@
   (lib (name "Button_Switch_SMD_LCSC")(type "KiCad")(uri "${KIPRJMOD}/lib/Button_Switch_SMD_LCSC.pretty")(options "")(descr ""))
   (lib (name "Case")(type "KiCad")(uri "${KIPRJMOD}/lib/Case.pretty")(options "")(descr ""))
   (lib (name "ToolingHole")(type "KiCad")(uri "${KIPRJMOD}/lib/ToolingHole.pretty")(options "")(descr ""))
+  (lib (name "Panels")(type "KiCad")(uri "${KIPRJMOD}/lib/Panels.pretty")(options "")(descr ""))
 )

@@ -175,8 +175,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "backpanel.step",
+      "vrml": "backpanel.wrl"
     },
     "page_layout_descr_file": ""
   },

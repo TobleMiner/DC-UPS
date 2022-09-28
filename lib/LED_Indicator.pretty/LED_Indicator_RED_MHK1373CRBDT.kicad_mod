@@ -18,4 +18,9 @@
   (fp_arc (start -5.925 1) (mid -6.925 0) (end -5.925 -1) (layer "F.Fab") (width 0.1) (tstamp 912921cf-8c1d-46f4-a930-512cbd0fa83b))
   (pad "1" thru_hole circle (at -0.025 1.27 180) (size 1 1) (drill 0.6) (layers *.Cu *.Mask) (tstamp a3689df7-eba9-4ae2-b673-aa96b9c5f7d5))
   (pad "2" thru_hole circle (at -0.025 -1.27 180) (size 1 1) (drill 0.6) (layers *.Cu *.Mask) (tstamp b88cb27d-fa6d-4781-80cc-c8be4a3ffb36))
+  (model "${KIPRJMOD}/lib/3rdparty/C417352.x3d"
+    (offset (xyz -1.2 0 0))
+    (scale (xyz 0.97 0.97 0.97))
+    (rotate (xyz 0 0 90))
+  )
 )

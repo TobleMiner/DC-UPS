@@ -10,5 +10,5 @@
     (tstamp 8c2ab76a-7883-4ac8-a06a-3d4922cbdffd)
   )
   (fp_line (start 0 0) (end 0 -5) (layer "Eco1.User") (width 0.05) (tstamp f5de9e83-8411-4878-a0e9-7e13c26d8e90))
-  (fp_rect (start -4.44 0) (end 12.06 -14) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp 045ecc30-e6e6-4408-a2b2-196136832828))
+  (fp_rect (start -3.81 0) (end 12.69 -14) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp 045ecc30-e6e6-4408-a2b2-196136832828))
 )

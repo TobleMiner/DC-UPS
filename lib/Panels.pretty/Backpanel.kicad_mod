@@ -1,0 +1,18 @@
+(footprint "Backpanel" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 958c4d4c-2d68-4c55-a69f-c8bd12314737)
+  )
+  (fp_text value "Backpanel" (at 0 1 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 8b57d7d0-d8be-4b5d-9451-c23b214c9c83)
+  )
+  (fp_line (start -3 0) (end 3 0) (layer "Eco1.User") (width 0.1) (tstamp c0598fd4-1e94-4778-b513-2146657df454))
+  (model "${KIPRJMOD}/backpanel/backpanel.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
