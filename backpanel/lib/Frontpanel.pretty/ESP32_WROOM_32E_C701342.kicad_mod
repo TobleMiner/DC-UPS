@@ -1,0 +1,13 @@
+(footprint "ESP32_WROOM_32E_C701342" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 87af02f0-7503-4aa6-92aa-198b54d8c55e)
+  )
+  (fp_text value "ESP32_WROOM_32E_C701342" (at 0 1 unlocked) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 2bcb4348-a37b-4bfa-a53b-5706c4007702)
+  )
+  (fp_rect (start -10 0) (end 10 -2) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp 5bcebc1d-b14a-486f-bed1-2e565be0b085))
+)

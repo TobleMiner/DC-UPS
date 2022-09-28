@@ -9,3 +9,7 @@ _autosave-*
 *.xml
 /fab
 dc-usv
+/backpanel/fab
+/backpanel/fab/*.zip
+/frontpanel/fab
+/frontpanel/fab/*.zip
