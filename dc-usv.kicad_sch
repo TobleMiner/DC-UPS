@@ -2092,7 +2092,7 @@
       (reference "R130") (unit 1) (value "100R") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/4ce9e4d8-553f-40e6-a397-66d04db306f8/1ecab983-5e94-410d-914a-77c73ccc6673"
-      (reference "R?") (unit 1) (value "100kR") (footprint "Resistor_SMD:R_0402_1005Metric")
+      (reference "R131") (unit 1) (value "100kR") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/4ce9e4d8-553f-40e6-a397-66d04db306f8/3152910b-dfc7-4fc7-87ab-336be9ca10d0"
       (reference "SW1") (unit 1) (value "SW_DIP_x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")

@@ -2883,7 +2883,7 @@
   (symbol (lib_id "Device:R_Small") (at 186.69 148.59 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1ecab983-5e94-410d-914a-77c73ccc6673)
-    (property "Reference" "R?" (id 0) (at 188.1886 147.7553 0)
+    (property "Reference" "R131" (id 0) (at 188.1886 147.7553 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100kR" (id 1) (at 188.1886 150.2922 0)
