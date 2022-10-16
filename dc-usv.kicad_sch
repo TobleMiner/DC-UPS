@@ -510,9 +510,6 @@
     (path "/aa145c2f-e167-4de3-92bf-3e0d0ae2fb67/f3138e98-bd26-4d90-b2ac-030417bc5cbe"
       (reference "#PWR0108") (unit 1) (value "GND1") (footprint "")
     )
-    (path "/aa145c2f-e167-4de3-92bf-3e0d0ae2fb67/03a587e1-4e06-45f9-9d63-cdf26541133d"
-      (reference "#PWR0109") (unit 1) (value "GND1") (footprint "")
-    )
     (path "/aa145c2f-e167-4de3-92bf-3e0d0ae2fb67/d779b1e1-bd8c-4144-82a1-14f56b9a5283"
       (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
     )
@@ -1130,6 +1127,12 @@
     )
     (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/8572e05a-74af-404b-bf60-563cf19889dc"
       (reference "#PWR0315") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/aa145c2f-e167-4de3-92bf-3e0d0ae2fb67/00986647-3825-41ea-9d06-80197e564ca7"
+      (reference "#PWR?") (unit 1) (value "GND1") (footprint "")
+    )
+    (path "/aa145c2f-e167-4de3-92bf-3e0d0ae2fb67/6fae8ef7-ebc4-40fc-8119-c150633e527b"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/aa145c2f-e167-4de3-92bf-3e0d0ae2fb67/06ec14b7-6af4-46b3-aed4-1258a100ed19"
       (reference "B1") (unit 1) (value "18650") (footprint "battery-holder-keystone:SMD-1048-dual-18650")
@@ -2078,6 +2081,15 @@
     )
     (path "/a06395f1-7afb-45e9-b1be-eb1d60bae674/ff1db6dc-7d57-4a6c-9d21-2f01e752f6a3"
       (reference "R127") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/aa145c2f-e167-4de3-92bf-3e0d0ae2fb67/db42f037-a9d8-4d48-b45a-93443b0fc9d7"
+      (reference "R?") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/aa145c2f-e167-4de3-92bf-3e0d0ae2fb67/db94b708-562b-4abb-8a63-3b38a3135f3f"
+      (reference "R?") (unit 1) (value "100R") (footprint "Resistor_SMD:R_0402_1005Metric")
+    )
+    (path "/aa145c2f-e167-4de3-92bf-3e0d0ae2fb67/ffa71521-f145-4185-a8bd-1d837e4238df"
+      (reference "R?") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/4ce9e4d8-553f-40e6-a397-66d04db306f8/3152910b-dfc7-4fc7-87ab-336be9ca10d0"
       (reference "SW1") (unit 1) (value "SW_DIP_x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
