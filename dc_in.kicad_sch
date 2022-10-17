@@ -1414,7 +1414,7 @@
     (property "Datasheet" "https://datasheet.lcsc.com/szlcsc/Alpha-Omega-Semicon-AOS-AO4407A_C35349.pdf" (id 3) (at 147.32 96.52 90)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "LCSC" "C35349" (id 4) (at 147.32 96.52 0)
+    (property "LCSC" "C167517" (id 4) (at 147.32 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid cb02f8ed-8e86-4105-b17c-d0bc46caf003))
