@@ -26,12 +26,16 @@ The mechanical construction of the DC UPS is based on 4 assemblies:
  - Hammond Manufacturing 1455L1601 aluminum case
  - Main PCB
  - Aluminum core PCB front panel
- - Aluminum core PCB back panel
+ - Aluminum core PCB rear panel
 
 The three PCBs have been optimized for manufacturing through JLCPCB.  
 The main PCB is also designed to be suitable for assembly through JLCPCB.  
 
-The relevant fabrication files are located in `fab`.
+The relevant fabrication files are located in `fab`.  
+
+For final assembly it is recommended to countersink the screw holes in
+front and rear panel. This will allow the screws included with the case to
+sit flush.
 
 ## Main PCB assembly
 
