@@ -5,6 +5,9 @@ This repository contains the design files for a DC uninterruptible power
 supply well suited to run network appliances like small switches, home
 routes and WLAN access points.
 
+**I would not recommend ordering RevB yet as there are still some issues with the current design.
+See [Rev B issues](https://github.com/TobleMiner/DC-UPS#rev-b-issues) below.**
+
 ![Render of the device](assets/render_front_small.png)
 
 # Features
@@ -12,7 +15,7 @@ routes and WLAN access points.
  - 3 DC outputs
  - Selectable output voltage (9V/12V/12.5V/15V)
  - USB-C power output (5V only, 3A)
- - Builtin battery (2x Li-Ion 18650)
+ - Builtin, easy to replace batteries (2x Li-Ion 18650)
  - Builtin Prometheus-exporter with comprehensive metrics
  - Open Source firmware (ESP32-based, esp-idf framework)
  - Easy software updates via back USB port
@@ -36,6 +39,12 @@ When using the JLCPCB assembly service only a very limited number of
 components needs to be assembled by hand:
  - Battery holder B1
  - OLED display U17
+
+## Thermals
+
+For better thermal management I would highly recommend to install a thick,
+generously sized thermal pad below U4 and L2 contacting the bottom case if
+using the UPS DC outputs beyond 40W output power.
 
 # Firmware
 
@@ -67,4 +76,12 @@ management internals.
 Finally the DC UPS is a lot smaller than available AC UPS options. The
 following picture shows a comparison between the AC UPS I have been using
 before and the DC UPS:  
+
 ![Size comparison between AC UPS and DC UPS. DC UPS is way smaller](assets/size_comparison_small.jpg)
+
+# Rev B issues
+
+Rev B is still more of a prototype than I'd like.
+This is the list of currently know issues:
+ - DCDC U4 startup is too slow on power failure, remove Q13
+ - R47 and R48 are too high resistance for effective testing

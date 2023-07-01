@@ -3,11 +3,8 @@ fp-info-cache
 _autosave-*
 *-rescue.dcm
 *.bak
-*_jlc*
-*.csv
 /*.zip
 *.xml
-/fab
 dc-usv
 /backpanel/fab
 /backpanel/fab/*.zip
