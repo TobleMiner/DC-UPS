@@ -10,3 +10,4 @@ dc-usv
 /backpanel/fab/*.zip
 /frontpanel/fab
 /frontpanel/fab/*.zip
+*.lck
