@@ -6190,7 +6190,7 @@
     (property "Datasheet" "~" (at 85.09 62.23 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C72043" (at 85.09 62.23 0)
+    (property "LCSC" "C2994781" (at 85.09 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid be77dac6-2743-4564-b0da-14917dff06c9))

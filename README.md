@@ -5,6 +5,7 @@ This repository contains the design files for a DC uninterruptible power
 supply well suited to run network appliances like small switches, home
 routes and WLAN access points.
 
+**I would not recommend ordering RevC yet as it is still untested.**  
 **I would not recommend ordering RevB yet as there are still some issues with the current design.
 See [Rev B issues](https://github.com/TobleMiner/DC-UPS#rev-b-issues) below.**
 
