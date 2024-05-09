@@ -24,7 +24,7 @@ See [Rev B issues](https://github.com/TobleMiner/DC-UPS#rev-b-issues) below.**
 # Construction
 
 The mechanical construction of the DC UPS is based on 4 assemblies:
- - Hammond Manufacturing 1455L1601 aluminum case
+ - Hammond Manufacturing 1455L1201BK aluminum case
  - Main PCB
  - Aluminum core PCB front panel
  - Aluminum core PCB rear panel
